@@ -1,2 +1,2 @@
-import insurance.operators
-insurance.operators.add(5,10)
+l = [5,3,8,10,4]
+# Write Sorting Code properly and submit before EOD. 
