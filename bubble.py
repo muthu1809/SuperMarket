@@ -1,6 +1,4 @@
-import insurance.operators
-insurance.operators.add(5,10)
-
-no1 = 5
-no2 = 10
-print(no1+no2)
+l = [5,3,8,10,4]
+# Write Sorting Code properly and submit before EOD. 
+i = 0 
+print(i)
